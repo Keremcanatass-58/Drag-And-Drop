@@ -1,0 +1,20 @@
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\bin\Debug\Uyg1.exe.config
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\bin\Debug\Uyg1.exe
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\bin\Debug\Uyg1.pdb
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\obj\Debug\Uyg1.csproj.AssemblyReference.cache
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\obj\Debug\Uyg1.Form1.resources
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\obj\Debug\Uyg1.Properties.Resources.resources
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\obj\Debug\Uyg1.csproj.GenerateResource.cache
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\obj\Debug\Uyg1.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\obj\Debug\Uyg1.exe
+C:\Users\Kerem\Desktop\SİNOP ÜNİ\2.Dönem\Görsel Programlama\Uyg1\obj\Debug\Uyg1.pdb
+C:\Users\Kerem\source\repos\AYM\Uyg1\bin\Debug\Uyg1.exe.config
+C:\Users\Kerem\source\repos\AYM\Uyg1\bin\Debug\Uyg1.exe
+C:\Users\Kerem\source\repos\AYM\Uyg1\bin\Debug\Uyg1.pdb
+C:\Users\Kerem\source\repos\AYM\Uyg1\obj\Debug\Uyg1.csproj.AssemblyReference.cache
+C:\Users\Kerem\source\repos\AYM\Uyg1\obj\Debug\Uyg1.Form1.resources
+C:\Users\Kerem\source\repos\AYM\Uyg1\obj\Debug\Uyg1.Properties.Resources.resources
+C:\Users\Kerem\source\repos\AYM\Uyg1\obj\Debug\Uyg1.csproj.GenerateResource.cache
+C:\Users\Kerem\source\repos\AYM\Uyg1\obj\Debug\Uyg1.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\source\repos\AYM\Uyg1\obj\Debug\Uyg1.exe
+C:\Users\Kerem\source\repos\AYM\Uyg1\obj\Debug\Uyg1.pdb
